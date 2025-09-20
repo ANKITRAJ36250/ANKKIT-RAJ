@@ -1,4 +1,4 @@
-# ANKKIT-RAJ
+# ANKIT-RAJ
 This is my first Git repository.
 <br>
 Author - Ankit raj
